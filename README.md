@@ -1,4 +1,4 @@
-# Ant_maze java implementation
+# Ant_maze ant-density DAS java implementation
 
 Zaimplementowanym algorytmem jest algorytm mrówkowy gęstościowy. Czyli po jednym cyklu przejścia kolonii następuje tzw. odparowanie feromonu na krawędziach. Moja wersja opisywanego algorytmu opiera się tylko i wyłącznie na prawdopodobieństwie i czynniku losowym, nie ma żadnego czynnika pomocniczego w postaci dodatkowej heurystyki.
 
